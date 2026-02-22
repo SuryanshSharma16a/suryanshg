@@ -51,7 +51,7 @@ st.set_page_config(page_title="Bluecrest Bank", layout="centered", page_icon="ðŸ
 # ---------------------------
 # MAIN INTERFACE (UNCHANGED)
 # ---------------------------
-st.image("bluecrest_logo.jng", width=750)
+st.image("bluecrest_logo.png", width=750)
 
 st.markdown("<h1 style='text-align:center;'>BLUECREST BANK</h1>", unsafe_allow_html=True)
 st.markdown("<h3 style='text-align:center;'>Welcome! Trusted Banking, Secure Future.</h3>", unsafe_allow_html=True)
